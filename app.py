@@ -82,7 +82,7 @@ def get_gemini_response(input):
 
 
 def main():
-    st.set_page_config("Query With PDF")
+    st.set_page_config("Know Your PDF")
     st.header("Query With Your Uploaded PDFs")
     response = ""
     user_question = st.text_input("Ask a Question from the PDF Files")
@@ -91,7 +91,7 @@ def main():
         user_input(user_question)
 
     with st.sidebar:
-        st.title("Query With PDFs:")
+        st.title("Know Your PDFs:")
         pdf_docs = st.file_uploader("Upload your PDF Files and Click on the Submit & Process Button", accept_multiple_files=True)
         if st.button("Submit & Process"):
             with st.spinner("Processing..."):
