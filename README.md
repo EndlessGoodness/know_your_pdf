@@ -33,8 +33,8 @@ Know Your PDF is a Python-based web application that enables users to upload PDF
 1. Clone the repository to your local machine:
 
 ```bash
-git clone Query-With-PDF
-cd Query-With-PDFs
+git clone Know-Your-PDF
+cd Know-Your-PDF
 ```
 1. **Install the required dependencies:**
 
@@ -65,7 +65,7 @@ For a live demonstration, you can visit our demo [website](https://querywithpdfs
 ### Ask Questions to Your PDF
 
 
-![Ask_QueryWithPDFs](https://github.com/neerajcodes888/Query-With-PDF/assets/98253646/a7acb343-a449-46e2-b3b5-a00ab57681a3)
+![Ask_Know_Your_PDF](https://github.com/EndlessGoodness/know_your_pdf)
 
 
 In this demo video, you can see how users can ask questions related to the content of their uploaded PDF files. The application provides a user-friendly interface for entering natural language queries. The advanced language understanding models process these queries to generate accurate answers based on the content of the PDF.
@@ -78,7 +78,7 @@ In this demo video, you can see how users can ask questions related to the conte
 
 
 
-![KeyPoints_QueryWithPDFs](https://github.com/neerajcodes888/Query-With-PDF/assets/98253646/7998c99d-4e24-4738-9c39-e0a7510f27cb)
+![KeyPoints_QueryWithPDFs](https://github.com/EndlessGoodness/know_your_pdf)
 
 
 
@@ -91,7 +91,7 @@ In this demo video, users can observe how the application automatically extracts
 Contributions are welcome! If you have any suggestions, enhancements, or bug fixes, please feel free to submit a pull request.
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/neerajcodes888/Query-With-PDF/blob/main/LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/EndlessGoodness/know_your_pdf/blob/main/LICENSE) file for details.
 
 ## Acknowledgements
 - Langchain Google GenAI for providing state-of-the-art language understanding capabilities.
