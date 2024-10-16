@@ -1,6 +1,6 @@
-# Query With PDFs
+# Know Your PDFs
 
-![Query-With-PDF](https://www.example.com)
+![Know-Your-PDF](https://www.example.com)
 
 ## Table of Contents
 - [Description](#description)
@@ -15,7 +15,7 @@
 - [Contact](#contact)
 
 ## Description
-Query With PDFs is a Python-based web application that enables users to upload PDF files, ask questions related to the content of the PDFs, and obtain answers along with key points extracted from the documents. The application leverages state-of-the-art language understanding models to process user queries and extract meaningful information from the uploaded PDF files.
+Know Your PDF is a Python-based web application that enables users to upload PDF files, ask questions related to the content of the PDFs, and obtain answers along with key points extracted from the documents. The application leverages state-of-the-art language understanding models to process user queries and extract meaningful information from the uploaded PDF files.
 
 ## Features
 - **PDF Upload:** Users can easily upload PDF files through the user-friendly interface.
