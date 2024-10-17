@@ -8,7 +8,7 @@
 - [Technology Stack](#technology-stack)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Demo](#demo)
+- [Google Drive Link](#demo)
 - [Contributing](#contributing)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
@@ -60,7 +60,7 @@ streamlit run app.py
 4. Receive detailed answers and key points extracted from the PDF.
 
 ## Demo
-For a live demonstration, you can visit our demo [website](https://querywithpdfs.onrender.com/).
+Link for Google Drive containing ppt and demo video, you can visit the given link [website](https://drive.google.com/drive/folders/1ikUXJWD06U2CwIKZ-9frGh_AoowORxUS?usp=drive_link).
 
 ### Ask Questions to Your PDF
 
