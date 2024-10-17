@@ -71,7 +71,7 @@ Link for Google Drive containing ppt and demo video, you can visit the given lin
 In this demo video, you can see how users can ask questions related to the content of their uploaded PDF files. The application provides a user-friendly interface for entering natural language queries. The advanced language understanding models process these queries to generate accurate answers based on the content of the PDF.
 
 
-![Ask Question](ask_question_demo.gif)
+![Ask Question](file:///C:/Users/surya/OneDrive/Desktop/WhatsApp%20Image%202024-10-17%20at%2013.13.56_27541245.jpg)
 
 ### Get Key Points of Your PDF
 
@@ -84,7 +84,7 @@ In this demo video, you can see how users can ask questions related to the conte
 
 In this demo video, users can observe how the application automatically extracts key points and relevant information from the uploaded PDFs. These key points provide concise summaries of the document's content, enabling users to quickly grasp the essential information contained within the PDF.
 
-![Get Key Points](get_keypoints_demo.gif)
+![Get Key Points](file:///C:/Users/surya/OneDrive/Desktop/WhatsApp%20Image%202024-10-17%20at%2013.13.28_91211b97.jpg)
 
  
 ## Contributing
